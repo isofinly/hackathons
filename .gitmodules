@@ -1,0 +1,9 @@
+[submodule "registry-web"]
+	path = registry-web
+	url = https://github.com/isofinly/registry-web
+[submodule "coconut"]
+	path = coconut
+	url = https://github.com/isofinly/coconut
+[submodule "ScuffTrain"]
+	path = ScuffTrain
+	url = https://github.com/isofinly/ScuffTrain
