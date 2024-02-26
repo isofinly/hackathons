@@ -7,3 +7,6 @@
 [submodule "ScuffTrain"]
 	path = ScuffTrain
 	url = https://github.com/isofinly/ScuffTrain
+[submodule "selectelhack"]
+	path = selectelhack
+	url = https://github.com/isofinly/selectelhack
